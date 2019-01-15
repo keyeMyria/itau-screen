@@ -1,7 +1,10 @@
 # Itaú main screen
 
 Itaú main screen made in Flutter, using the BLoC pattern.
-Development time: 4 hours.
+Development time: 
+  - Layout: 2 hours;
+  - BLoC Pattern: 1 hour;
+  - Total: 3 hours
 
 ![](working.gif)
 
